@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: 'Gilroy';
-  src: url('./fonts/Gilroy-Regular.ttf') format('truetype');
+  src: url('./fonts/Gilroy-Medium.ttf') format('truetype');
   font-weight: 400; /* Regular */
   font-style: normal;
 }
@@ -27,7 +27,8 @@
 /* Apply Gilroy font globally */
 body {
   font-family: 'Gilroy', sans-serif;
-  background-color: rgb(0, 132, 255);
+  background-color: rgb(255, 255, 255);
+  color: black;
 }
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
