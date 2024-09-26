@@ -10,8 +10,6 @@ export const MainSection = () => {
       <h1 className="font-bold underline my-5">
         <ChangingText />
       </h1>
-      <h1 className="font-light text-xl my-1">
-      </h1>
       <h1 className="font-bold text-5xl my-2 ">
       My name is
       Muhammad Danish Asim,
@@ -25,10 +23,5 @@ export const MainSection = () => {
       
 
     </div>
-    {/* <div
-      className="w-1/2"
-    >
-      <img src={MyImg} alt="" />
-    </div> */}
   </div>)
 }
